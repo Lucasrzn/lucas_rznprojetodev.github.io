@@ -1,4 +1,4 @@
-# lucas_rznprojetodev.github.io
+# lucasrzn.github.io
 
 
 Projeto jornada DEV
